@@ -18,7 +18,7 @@
                 <a class="nav-item nav-link" href="#">Home</a>
                 <a class="nav-item nav-link" href="#">books</a>
                 <a class="nav-item nav-link" href="<?php echo $url; ?>">Web Site</a>
-                <a class="nav-item nav-link" href="#">Log Out</a>
+                <a class="nav-item nav-link" href="index.php">Log Out</a>
             </ul>
         </div>
     </nav>
